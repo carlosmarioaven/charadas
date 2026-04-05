@@ -1,0 +1,1030 @@
+{
+  "version": "1.0.0",
+  "total": 160,
+  "categorias": [
+    {
+      "id": "peliculas",
+      "nombre": "Películas",
+      "emoji": "🎬",
+      "color": "#E74C3C",
+      "charadas": [
+        {
+          "id": "pel_001",
+          "pista": "Un rey muere, un príncipe huye y los animales lloran. El círculo no termina.",
+          "respuesta": "El Rey León",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_002",
+          "pista": "Un hombre araña teje más que una telaraña. ¿Con qué hilo trabaja?",
+          "respuesta": "Spider-Man",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_003",
+          "pista": "Un barco se hunde pero el amor flota. Jack no cabía en la tabla.",
+          "respuesta": "Titanic",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_004",
+          "pista": "Soy verde, vivo en un pantano y mi mejor amigo es un burro parlanchín.",
+          "respuesta": "Shrek",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_005",
+          "pista": "Peces perdidos, peces encontrados. Un padre cruzó el océano por su hijo.",
+          "respuesta": "Buscando a Nemo",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_006",
+          "pista": "Un hombre de hierro que no necesita herrero. Su corazón es una batería.",
+          "respuesta": "Iron Man",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_007",
+          "pista": "Magia, varita y una cicatriz en la frente. Hogwarts lo llama.",
+          "respuesta": "Harry Potter",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_008",
+          "pista": "Un jugador que en la realidad no puede jugar. Los sueños dentro de los sueños.",
+          "respuesta": "Inception",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "pel_009",
+          "pista": "Soy un robot amarillo que no habla pero dice todo con sus pitidos.",
+          "respuesta": "Wall-E",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_010",
+          "pista": "Gladiador en Roma, esclavo por traición, venganza como destino.",
+          "respuesta": "Gladiator",
+          "dificultad": "media"
+        },
+        {
+          "id": "pel_011",
+          "pista": "Un juguete que vive para ser jugado. Cuando creces, el amor se guarda en una caja.",
+          "respuesta": "Toy Story",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_012",
+          "pista": "Lluvia de balas en el tiempo. Azul o rojo, tú decides tu realidad.",
+          "respuesta": "Matrix",
+          "dificultad": "media"
+        },
+        {
+          "id": "pel_013",
+          "pista": "Un señor muy poderoso gobierna con un anillo que corrompe el alma.",
+          "respuesta": "El Señor de los Anillos",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_014",
+          "pista": "Dinosaurios reviven en una isla donde el parque no debió abrir.",
+          "respuesta": "Jurassic Park",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_015",
+          "pista": "Un chef con muy buen olfato cocina en París desde el techo de una cabeza.",
+          "respuesta": "Ratatouille",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_016",
+          "pista": "Nave espacial, galaxias y un cowboy del espacio que hace el salto al hiperespacio.",
+          "respuesta": "Star Wars",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_017",
+          "pista": "Un hombre que duerme y recuerda vidas que no vivió. Su mente es un laberinto.",
+          "respuesta": "Eternal Sunshine of the Spotless Mind",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "pel_018",
+          "pista": "Superhéroes juntos, thanos chasquea y la mitad desaparece.",
+          "respuesta": "Avengers: Infinity War",
+          "dificultad": "media"
+        },
+        {
+          "id": "pel_019",
+          "pista": "Un hombre azul en un planeta azul aprende a volar en un mundo ajeno.",
+          "respuesta": "Avatar",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pel_020",
+          "pista": "Una muñeca de plástico en un mundo real descubre que la vida es más complicada.",
+          "respuesta": "Barbie",
+          "dificultad": "fácil"
+        }
+      ]
+    },
+    {
+      "id": "animales",
+      "nombre": "Animales",
+      "emoji": "🐾",
+      "color": "#27AE60",
+      "charadas": [
+        {
+          "id": "ani_001",
+          "pista": "Tengo rayas pero no soy tela. Galopo pero no soy caballo. ¿Qué soy?",
+          "respuesta": "Cebra",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_002",
+          "pista": "Duermo todo el invierno y en verano busco miel sin que las abejas me asusten.",
+          "respuesta": "Oso",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_003",
+          "pista": "Tengo ocho brazos para abrazar pero vivo donde nadie puede respirar.",
+          "respuesta": "Pulpo",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_004",
+          "pista": "Soy el animal más rápido en tierra pero no gano una maratón humana.",
+          "respuesta": "Guepardo",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_005",
+          "pista": "Llevo mi casa a cuestas y nunca la pierdo, pero tampoco corro para encontrarla.",
+          "respuesta": "Tortuga",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_006",
+          "pista": "Soy negro y blanco pero no soy un periódico. Vivo en el hielo y no vuelo.",
+          "respuesta": "Pingüino",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_007",
+          "pista": "Mi nariz hace manguera y mis orejas son abanicos gigantes.",
+          "respuesta": "Elefante",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_008",
+          "pista": "Soy el único mamífero que de verdad puede volar, no planear.",
+          "respuesta": "Murciélago",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_009",
+          "pista": "Tengo melena y soy rey, pero mi pareja trabaja más que yo.",
+          "respuesta": "León",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_010",
+          "pista": "Cambio de color según mi humor y mis ojos miran en dos direcciones a la vez.",
+          "respuesta": "Camaleón",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_011",
+          "pista": "Soy el animal más grande del mundo pero como solo bichos diminutos.",
+          "respuesta": "Ballena Azul",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_012",
+          "pista": "Tengo veneno en mis talones y pongo huevos aunque soy mamífero. Soy un misterio.",
+          "respuesta": "Ornitorrinco",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_013",
+          "pista": "Escupo fuego según los cuentos, pero en la realidad solo escupo lengua.",
+          "respuesta": "Dragón de Komodo",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ani_014",
+          "pista": "Soy rosado porque como camarones. Si no los como, pierdo mi color.",
+          "respuesta": "Flamenco",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_015",
+          "pista": "Tejo sin hilo de seda comprado. Mi trampa atrapa lo que vuela.",
+          "respuesta": "Araña",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_016",
+          "pista": "Tengo un cuerno en la frente pero soy real, no de fantasía.",
+          "respuesta": "Rinoceronte",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_017",
+          "pista": "Duermo colgado al revés y me alimento de noche. Soy el detective del bosque.",
+          "respuesta": "Búho",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_018",
+          "pista": "Soy rápido bajo el agua, tengo aleta en el lomo y sonrío siempre aunque no quiera.",
+          "respuesta": "Delfín",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_019",
+          "pista": "Mi lana abriga al mundo y sigo aunque me la quiten. Soy símbolo de paciencia.",
+          "respuesta": "Oveja",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_020",
+          "pista": "Tengo bolsa en la barriga y salto para ir al trabajo.",
+          "respuesta": "Canguro",
+          "dificultad": "fácil"
+        }
+      ]
+    },
+    {
+      "id": "famosos",
+      "nombre": "Famosos",
+      "emoji": "⭐",
+      "color": "#F39C12",
+      "charadas": [
+        {
+          "id": "fam_001",
+          "pista": "Pintó el cielo estrellado desde un manicomio. Le faltó una oreja para escuchar el mundo.",
+          "respuesta": "Vincent van Gogh",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_002",
+          "pista": "Cantó en inglés con acento de Liverpool y cambió la música para siempre.",
+          "respuesta": "The Beatles",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_003",
+          "pista": "Bailó como nadie, dio la vuelta al mundo con un guante y fue rey sin corona.",
+          "respuesta": "Michael Jackson",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_004",
+          "pista": "Descubrió la gravedad cuando una fruta cayó. No fue manzana confirmada.",
+          "respuesta": "Isaac Newton",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_005",
+          "pista": "Habló de los sueños en Washington y su voz todavía resuena en el mundo.",
+          "respuesta": "Martin Luther King Jr.",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_006",
+          "pista": "Nació en Argentina, curó en Cuba y se convirtió en símbolo en una camiseta.",
+          "respuesta": "Che Guevara",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_007",
+          "pista": "Dibujó hombres voladores y la Mona Lisa en sus ratos libres. Era zurdo y genio.",
+          "respuesta": "Leonardo da Vinci",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_008",
+          "pista": "Ganó seis mundiales sin manos. Su pie izquierdo fue poesía.",
+          "respuesta": "Pelé",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_009",
+          "pista": "Cantó 'Bohemian Rhapsody' con una voz que rompía el cielo. Vivió libre.",
+          "respuesta": "Freddie Mercury",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_010",
+          "pista": "Inventó la bombilla pero no en un día. Falló mil veces sin rendirse.",
+          "respuesta": "Thomas Edison",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_011",
+          "pista": "Su cara está en todos los smartphones. No era médico pero operó la industria.",
+          "respuesta": "Steve Jobs",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_012",
+          "pista": "Escribió de amor y tragedia en verso. Romeo y Julieta lo hicieron inmortal.",
+          "respuesta": "William Shakespeare",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_013",
+          "pista": "Fue astronauta, pisó la luna y dijo palabras que todo el mundo repite.",
+          "respuesta": "Neil Armstrong",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_014",
+          "pista": "Pintó el techo de una capilla boca arriba. Sus dedos tocaron el cielo literalmente.",
+          "respuesta": "Miguel Ángel",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_015",
+          "pista": "Sufrió un accidente terrible, pintó su dolor y se casó dos veces con el mismo hombre.",
+          "respuesta": "Frida Kahlo",
+          "dificultad": "media"
+        },
+        {
+          "id": "fam_016",
+          "pista": "Nació en Rosario, juega en París, y sus pies hacen cosas que el cerebro no entiende.",
+          "respuesta": "Lionel Messi",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_017",
+          "pista": "Construyó cohetes para ir a Marte y compró una red social para hablar solo.",
+          "respuesta": "Elon Musk",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_018",
+          "pista": "Escribió desde Colombia sobre el amor en tiempos difíciles. Ganó el Nobel con mariposas amarillas.",
+          "respuesta": "Gabriel García Márquez",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "fam_019",
+          "pista": "Nació en Madeira, marcó goles con la derecha, la izquierda y la cabeza. CR7.",
+          "respuesta": "Cristiano Ronaldo",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "fam_020",
+          "pista": "Relativamente famoso por su teoría. Sacó la lengua en la foto más icónica de la ciencia.",
+          "respuesta": "Albert Einstein",
+          "dificultad": "fácil"
+        }
+      ]
+    },
+    {
+      "id": "profesiones",
+      "nombre": "Profesiones",
+      "emoji": "💼",
+      "color": "#8E44AD",
+      "charadas": [
+        {
+          "id": "pro_001",
+          "pista": "Abro el pecho sin matar, coso sin hilo de coser y salvo con mis manos.",
+          "respuesta": "Cirujano",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_002",
+          "pista": "Defiendo con palabras, no con espadas. Mi campo de batalla es una sala fría.",
+          "respuesta": "Abogado",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_003",
+          "pista": "Subo donde otros no se atreven para apagar lo que no debería arder.",
+          "respuesta": "Bombero",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_004",
+          "pista": "Construyo con números, vigas y planos. Mis errores se caen literalmente.",
+          "respuesta": "Ingeniero",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_005",
+          "pista": "Siembro, riego y cosecho. Sin mí no hay comida en ninguna mesa del mundo.",
+          "respuesta": "Agricultor",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_006",
+          "pista": "Vuelo sin alas propias. Llevo cientos de vidas en mis manos a 10,000 metros.",
+          "respuesta": "Piloto",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_007",
+          "pista": "Enseño sin aprender a cambio, pero aprendo más que nadie cada día.",
+          "respuesta": "Maestro",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_008",
+          "pista": "Escribo el presente para que el futuro lo recuerde. Busco la verdad con preguntas.",
+          "respuesta": "Periodista",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_009",
+          "pista": "Creo mundos que no existen con código que nadie ve pero todos usan.",
+          "respuesta": "Programador",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_010",
+          "pista": "Cuido dientes que no son míos. Mi silla es la más temida del mundo.",
+          "respuesta": "Dentista",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_011",
+          "pista": "Transformo ingredientes en arte comestible. Mis cuadros se comen con cubiertos.",
+          "respuesta": "Chef",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_012",
+          "pista": "Navego por la mente humana sin brújula. Escucho más de lo que hablo.",
+          "respuesta": "Psicólogo",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_013",
+          "pista": "Reparo tuberías que no deberían romperse. El agua obedece mis manos.",
+          "respuesta": "Plomero",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_014",
+          "pista": "Curo animales que no pueden decirme dónde les duele.",
+          "respuesta": "Veterinario",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_015",
+          "pista": "Miro las estrellas por trabajo y calculo el universo con matemáticas.",
+          "respuesta": "Astrónomo",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_016",
+          "pista": "Diseño lo que vas a usar mañana. Tela, tijeras y visión son mis herramientas.",
+          "respuesta": "Diseñador de moda",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_017",
+          "pista": "Traduzco el alma de un idioma a otro sin perder su esencia.",
+          "respuesta": "Traductor",
+          "dificultad": "media"
+        },
+        {
+          "id": "pro_018",
+          "pista": "Mi pincel pinta paredes, no lienzos. El color de tu casa es mi obra.",
+          "respuesta": "Pintor de casas",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "pro_019",
+          "pista": "Estudio los muertos para proteger a los vivos. La ciencia forense es mi laboratorio.",
+          "respuesta": "Médico forense",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "pro_020",
+          "pista": "Dirijo sin tocar un instrumento pero sin mí la orquesta es un caos elegante.",
+          "respuesta": "Director de orquesta",
+          "dificultad": "media"
+        }
+      ]
+    },
+    {
+      "id": "series_tv",
+      "nombre": "Series de TV",
+      "emoji": "📺",
+      "color": "#2980B9",
+      "charadas": [
+        {
+          "id": "ser_001",
+          "pista": "Invierno siempre llega pero el trono no le importa a los muertos.",
+          "respuesta": "Game of Thrones",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_002",
+          "pista": "Un químico enfermo que decide cocinar en el desierto para dejar herencia.",
+          "respuesta": "Breaking Bad",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_003",
+          "pista": "Amigos en un sofá naranja. Un café lleno de historias en Nueva York.",
+          "respuesta": "Friends",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_004",
+          "pista": "Una oficina aburrida en Pensilvania donde todo es drama entre papeles.",
+          "respuesta": "The Office",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_005",
+          "pista": "Isla, supervivencia, secretos y un número que se repite: 4, 8, 15, 16, 23, 42.",
+          "respuesta": "Lost",
+          "dificultad": "media"
+        },
+        {
+          "id": "ser_006",
+          "pista": "Un detective con mente de computadora resuelve lo que la policía no puede.",
+          "respuesta": "Sherlock",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_007",
+          "pista": "Chica con poderes telequinéticos en un pueblo donde el gobierno esconde monstruos.",
+          "respuesta": "Stranger Things",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_008",
+          "pista": "Muertos que caminan pero el verdadero peligro son los vivos.",
+          "respuesta": "The Walking Dead",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_009",
+          "pista": "Una familia amarilla lleva treinta años en Springfield sin envejecer.",
+          "respuesta": "Los Simpsons",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_010",
+          "pista": "Maestro y estudiante venden droga en el desierto de Albuquerque.",
+          "respuesta": "Breaking Bad",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_011",
+          "pista": "Un narcotraficante colombiano que construyó un imperio con sangre y plata o plomo.",
+          "respuesta": "Narcos",
+          "dificultad": "media"
+        },
+        {
+          "id": "ser_012",
+          "pista": "En el futuro, los robots no saben que son robots hasta que es demasiado tarde.",
+          "respuesta": "Westworld",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ser_013",
+          "pista": "Cuatro mujeres en Manhattan hablan de zapatos, amor y columnas de periódico.",
+          "respuesta": "Sex and the City",
+          "dificultad": "media"
+        },
+        {
+          "id": "ser_014",
+          "pista": "Un hacker con hoodie que hackea el mundo real para destruir las deudas.",
+          "respuesta": "Mr. Robot",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ser_015",
+          "pista": "Superhéroes con capas que trabajan en una ciudad que siempre necesita salvar.",
+          "respuesta": "The Boys",
+          "dificultad": "media"
+        },
+        {
+          "id": "ser_016",
+          "pista": "Un abogado ciego de día, héroe nocturno en las calles de Hell's Kitchen.",
+          "respuesta": "Daredevil",
+          "dificultad": "media"
+        },
+        {
+          "id": "ser_017",
+          "pista": "Casa de papel, máscaras de Dalí y un Profesor con demasiados planes.",
+          "respuesta": "La Casa de Papel",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_018",
+          "pista": "Vikingos que navegan, conquistan y rezan a dioses que les responden.",
+          "respuesta": "Vikings",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ser_019",
+          "pista": "Un chef, un hospital y la presión de cada segundo en la cocina.",
+          "respuesta": "The Bear",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ser_020",
+          "pista": "Un niño juego se vuelve real y los participantes juegan por su vida.",
+          "respuesta": "Squid Game",
+          "dificultad": "fácil"
+        }
+      ]
+    },
+    {
+      "id": "disney",
+      "nombre": "Personajes de Disney",
+      "emoji": "🏰",
+      "color": "#1ABC9C",
+      "charadas": [
+        {
+          "id": "dis_001",
+          "pista": "Dormí cien años y un beso me despertó. Mis hadas madrinas me cuidan.",
+          "respuesta": "La Bella Durmiente",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_002",
+          "pista": "Soy una tetera que canta y tengo una taza por hijo. Vivo en un castillo embrujado.",
+          "respuesta": "Sra. Potts (La Bella y la Bestia)",
+          "dificultad": "media"
+        },
+        {
+          "id": "dis_003",
+          "pista": "Tengo orejas grandes, vuelo sin alas y mi amigo es un ratón con sombrero.",
+          "respuesta": "Dumbo",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_004",
+          "pista": "Fui mentiroso y mi nariz lo confesó antes que yo.",
+          "respuesta": "Pinocho",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_005",
+          "pista": "Soy un genio azul que concede deseos. Vivo en una lámpara algo apretada.",
+          "respuesta": "Genio (Aladdin)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_006",
+          "pista": "Perdí un zapato a medianoche y un príncipe lo buscó por todo el reino.",
+          "respuesta": "Cenicienta",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_007",
+          "pista": "Soy un muñeco de nieve que sueña con el verano sin saber lo que eso significa.",
+          "respuesta": "Olaf (Frozen)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_008",
+          "pista": "Soy una bruja verde con manzanas y espejos. Odio ser la segunda más bella.",
+          "respuesta": "Reina Malvada (Blancanieves)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_009",
+          "pista": "Mi pelo es una torre y un ladrón trepó por él para robarme el corazón.",
+          "respuesta": "Rapunzel",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_010",
+          "pista": "Soy un pez azul con muy mala memoria pero mucho corazón.",
+          "respuesta": "Dory (Buscando a Nemo)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_011",
+          "pista": "Soy el malo más estiloso de Disney. Mis dálmatas me los quiero como abrigo.",
+          "respuesta": "Cruella De Vil",
+          "dificultad": "media"
+        },
+        {
+          "id": "dis_012",
+          "pista": "Crecí en la jungla con lobos y un oso perezoso que me enseñó lo esencial de la vida.",
+          "respuesta": "Mowgli (El libro de la selva)",
+          "dificultad": "media"
+        },
+        {
+          "id": "dis_013",
+          "pista": "Soy mitad humana, mitad pez y cambié mi voz por unas piernas.",
+          "respuesta": "Ariel (La Sirenita)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_014",
+          "pista": "Soy un dinosaurio morado que abraza niños y canta canciones pegajosas.",
+          "respuesta": "Barney",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_015",
+          "pista": "Soy un superhéroe inflable y muy suave. Mi mejor arma es un abrazo.",
+          "respuesta": "Baymax (Big Hero 6)",
+          "dificultad": "media"
+        },
+        {
+          "id": "dis_016",
+          "pista": "Mi reino se congela cuando me enojo. Mi poder es el hielo y mi canción la liberó.",
+          "respuesta": "Elsa (Frozen)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_017",
+          "pista": "Soy un ratón con sombrero rojo y orejas redondas. Soy el dueño del castillo.",
+          "respuesta": "Mickey Mouse",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_018",
+          "pista": "Salvé a China disfrazada de hombre porque mi padre no podía hacerlo.",
+          "respuesta": "Mulan",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_019",
+          "pista": "Soy un oso que solo piensa en miel y vive en el Bosque de los Cien Acres.",
+          "respuesta": "Winnie the Pooh",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "dis_020",
+          "pista": "Soy una princesa que nunca necesitó un príncipe. Mi arco y mi pelo rojo lo dicen todo.",
+          "respuesta": "Mérida (Brave)",
+          "dificultad": "media"
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "nombre": "Anime",
+      "emoji": "⛩️",
+      "color": "#E91E63",
+      "charadas": [
+        {
+          "id": "ani_a001",
+          "pista": "Soy un ninja con el zorro de nueve colas dentro y sueño con ser el líder de mi pueblo.",
+          "respuesta": "Naruto Uzumaki",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_a002",
+          "pista": "Llevo una espada negra y peleo contra demonios con una respiración especial.",
+          "respuesta": "Tanjiro Kamado (Demon Slayer)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a003",
+          "pista": "Soy el pirata que quiere el tesoro más grande del mundo y mi cuerpo es de goma.",
+          "respuesta": "Monkey D. Luffy (One Piece)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_a004",
+          "pista": "Tengo un cuaderno mortal. Si escribo tu nombre, mueres. Soy dios del nuevo mundo.",
+          "respuesta": "Light Yagami (Death Note)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a005",
+          "pista": "Soy el último maestro de los cuatro elementos. El fuego fue el que me faltaba.",
+          "respuesta": "Aang (Avatar: La leyenda de Aang)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a006",
+          "pista": "Un niño sin poderes en un mundo de superhéroes que estudia para volverse el mejor.",
+          "respuesta": "Deku - Izuku Midoriya (My Hero Academia)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a007",
+          "pista": "Soy un espadachín con tres katanas y una técnica que nadie más puede imitar.",
+          "respuesta": "Zoro (One Piece)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a008",
+          "pista": "Vivo dentro de una ciudad rodeada de muros que protegen a la humanidad de gigantes.",
+          "respuesta": "Eren Yeager (Attack on Titan)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a009",
+          "pista": "Soy un alquimista que usa su brazo de metal para buscar la piedra filosofal con su hermano.",
+          "respuesta": "Edward Elric (Fullmetal Alchemist)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a010",
+          "pista": "Soy el guerrero más poderoso del universo y siempre peleo al límite para mejorar.",
+          "respuesta": "Goku (Dragon Ball)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_a011",
+          "pista": "Soy una bruja estudiante que entrega cartas y paquetes volando en escoba.",
+          "respuesta": "Kiki (El servicio de entrega de Kiki)",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ani_a012",
+          "pista": "Soy mitad demonio, mitad humano y protejo a una sacerdotisa cazando una joya rota.",
+          "respuesta": "Inuyasha",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a013",
+          "pista": "Soy un detective que vive en el cuerpo de un niño y resuelvo crímenes sin que nadie lo sepa.",
+          "respuesta": "Conan Edogawa (Detective Conan)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a014",
+          "pista": "Soy un mago del gremio más caótico de Fiore. Mi magia es el fuego del dragón.",
+          "respuesta": "Natsu Dragneel (Fairy Tail)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a015",
+          "pista": "Soy un samurai errante que usa una técnica invertida para no matar.",
+          "respuesta": "Kenshin Himura (Rurouni Kenshin)",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ani_a016",
+          "pista": "Soy un ninja de la hoja oculta con un sharingan que copia cualquier jutsu.",
+          "respuesta": "Kakashi Hatake (Naruto)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a017",
+          "pista": "Soy un espíritu de baño que trabaja para pagar la deuda de sus padres convertidos en cerdos.",
+          "respuesta": "Chihiro (El viaje de Chihiro)",
+          "dificultad": "media"
+        },
+        {
+          "id": "ani_a018",
+          "pista": "Soy el príncipe de los Saiyajin y nunca me rindo aunque el orgullo me cueste la derrota.",
+          "respuesta": "Vegeta (Dragon Ball Z)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "ani_a019",
+          "pista": "Soy un jugador de voleibol bajito que salta más alto que nadie por pura determinación.",
+          "respuesta": "Hinata Shoyo (Haikyuu!!)",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "ani_a020",
+          "pista": "Soy un cazador de monstruos que participa en un examen imposible para encontrar a su padre.",
+          "respuesta": "Gon Freecss (Hunter x Hunter)",
+          "dificultad": "difícil"
+        }
+      ]
+    },
+    {
+      "id": "videojuegos",
+      "nombre": "Videojuegos",
+      "emoji": "🎮",
+      "color": "#E67E22",
+      "charadas": [
+        {
+          "id": "vid_001",
+          "pista": "Salto sobre hongos, rescato princesas y vivo en un reino donde llueven monedas.",
+          "respuesta": "Mario Bros",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_002",
+          "pista": "Soy el héroe del tiempo. Mi espada, mi escudo y mi hada azul van conmigo siempre.",
+          "respuesta": "The Legend of Zelda",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_003",
+          "pista": "Un erizo azul que corre más rápido que el sonido y colecciona anillos dorados.",
+          "respuesta": "Sonic the Hedgehog",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_004",
+          "pista": "Construyo mundos con bloques y de noche los monstruos salen de las sombras.",
+          "respuesta": "Minecraft",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_005",
+          "pista": "Cien jugadores caen de un autobús y solo uno sobrevive en una isla que se encoge.",
+          "respuesta": "Fortnite",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_006",
+          "pista": "Soy un espartano que mató a los dioses del Olimpo. Ahora tengo un hijo y hacha nórdica.",
+          "respuesta": "God of War (Kratos)",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_007",
+          "pista": "Abro un cofre, equipó espada y peleo dragones en un mundo que genero sin diseñar.",
+          "respuesta": "The Elder Scrolls V: Skyrim",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_008",
+          "pista": "Soy un cazador de monstruos gigantes que forja armadura con sus propios huesos.",
+          "respuesta": "Monster Hunter",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_009",
+          "pista": "Rompí el tiempo con una guitarra. Mis amigos son un fantasma, una chica de hielo y un guerrero.",
+          "respuesta": "Chrono Trigger",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "vid_010",
+          "pista": "Zombis en una ciudad, inventario limitado y una llave que nunca abre la puerta correcta.",
+          "respuesta": "Resident Evil",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_011",
+          "pista": "Soy un ninja que muere mil veces y aprende del fracaso. No hay Game Over, hay lección.",
+          "respuesta": "Sekiro / Dark Souls",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_012",
+          "pista": "Voy de planeta en planeta con un traje espacial y mi nave. Soy el cazarrecompensas más solitario.",
+          "respuesta": "Metroid (Samus Aran)",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "vid_013",
+          "pista": "Mi ciudad es un campo abierto con actividades infinitas. La policía me persigue con estrellas.",
+          "respuesta": "Grand Theft Auto (GTA)",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_014",
+          "pista": "Soy un personaje que salta plataformas y el nivel más difícil es el último mundo oculto.",
+          "respuesta": "Super Mario World",
+          "dificultad": "fácil"
+        },
+        {
+          "id": "vid_015",
+          "pista": "Construyo una civilización desde la piedra hasta el espacio. Mahatma Gandhi me declara la guerra.",
+          "respuesta": "Civilization",
+          "dificultad": "difícil"
+        },
+        {
+          "id": "vid_016",
+          "pista": "Disparo en primera persona con equipos y el mapa más famoso se llama Dust2.",
+          "respuesta": "Counter-Strike",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_017",
+          "pista": "Soy un mago, un guerrero o un elfo en un mundo donde corro, vuelo y pago suscripción.",
+          "respuesta": "World of Warcraft",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_018",
+          "pista": "Pico, planto, riego y me enamoro en una granja heredada de mi abuelo.",
+          "respuesta": "Stardew Valley",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_019",
+          "pista": "Soy un guerrero fantasma que busca venganza en un Japón feudal lleno de honor y traición.",
+          "respuesta": "Ghost of Tsushima",
+          "dificultad": "media"
+        },
+        {
+          "id": "vid_020",
+          "pista": "Camino por Hyrule en mundo abierto, cocino, trepo y la lluvia arruina mis planes.",
+          "respuesta": "The Legend of Zelda: Breath of the Wild",
+          "dificultad": "media"
+        }
+      ]
+    }
+  ]
+}
